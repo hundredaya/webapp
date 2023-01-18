@@ -52,7 +52,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>all the best</h1>
-        <h2>hello pratik and shubham</h2>
+        <h2>Good morning GROUP 3 CANT STOP NOW</h2>
+        <h3>SHUBHAM, PRATIK, MANOJ & DAYANAND</h3>
         <p>This is from dev branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
