@@ -51,7 +51,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>india-1</h1>
+        <h1>all the best</h1>
+        <h2>hello pratik and shubham</h2>
         <p>This is from dev branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
